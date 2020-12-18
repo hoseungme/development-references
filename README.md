@@ -80,5 +80,6 @@
 ### 운영체제
 
 - [교착상태란 무엇인가](https://coding-factory.tistory.com/311)
+- [교착상태 회피 기법 - 은행원 알고리즘](https://jhnyang.tistory.com/102)
 
 [⬆ 목차로 이동](#목차)
