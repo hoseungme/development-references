@@ -10,6 +10,7 @@
   - [Javascript](#Javascript)
   - [Typescript](#Typescript)
   - [Java](#Java)
+  - [HTML](#HTML)
 - [프레임워크](#프레임워크)
   - [React](#React)
 - [프론트엔드](#프론트엔드)
@@ -39,6 +40,12 @@
 
 - [Enum 활용기](https://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 - [String Constant Pool에 대해](https://medium.com/@joongwon/string-%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0-57af94cbb6bc)
+
+---
+
+### HTML
+
+- [Semantic 태그와 SEO](https://velog.io/@seongkyun/Semantic-Tag%EB%8A%94-SEO%EC%97%90-%EC%98%81%ED%96%A5%EC%9D%84-%EB%AF%B8%EC%B9%A0%EA%B9%8C)
 
 ---
 
