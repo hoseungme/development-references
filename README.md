@@ -22,26 +22,22 @@
 
 [⬆목차로 이동](#목차)
 
----
 
 ### Javascript
 
 - [async/await의 병목 현상 해결하기](https://jaeheon.kr/161)
 
----
 
 ### Typescript
 
 
 
----
 
 ### Java
 
 - [Enum 활용기](https://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 - [String Constant Pool에 대해](https://medium.com/@joongwon/string-%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0-57af94cbb6bc)
 
----
 
 ### HTML
 
@@ -53,10 +49,8 @@
 
 [⬆목차로 이동](#목차)
 
----
 
 ### React
 
 - [Javascript 클로저로 useState hook 만들기](https://medium.com/humanscape-tech/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%81%B4%EB%A1%9C%EC%A0%80%EB%A1%9C-hooks%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-3ba74e11fda7)
 
----
