@@ -79,4 +79,6 @@
 
 ### 운영체제
 
+- [교착상태란 무엇인가](https://coding-factory.tistory.com/311)
+
 [⬆ 목차로 이동](#목차)
