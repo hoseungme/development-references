@@ -22,6 +22,7 @@
   - [네트워크](#네트워크)
 - [개발지식](#개발지식)
   - [리팩토링](#리팩토링)
+- [좋은 자료](#좋은-자료)
 
 ---
 
@@ -106,5 +107,13 @@
 - [🎥 리팩토링의 중요성 - 마틴 파울러](https://www.youtube.com/watch?v=mNPpfB8JSIU&ab_channel=%EB%8D%B0%EB%B8%8C%EC%9B%90%EC%98%81DVWY)
 
 [⬆ 목차로 이동](#목차)
+
+---
+
+## 좋은 자료
+
+[⬆ 목차로 이동](#목차)
+
+- [🎥 지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지](https://www.youtube.com/watch?v=V9AGvwPmnZU&ab_channel=EO)
 
 ---
