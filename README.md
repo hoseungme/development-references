@@ -77,6 +77,8 @@
 
 [⬆ 목차로 이동](#목차)
 
+- [📚 strong consistency vs eventual consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
+
 ---
 
 ## 컴퓨터 공학
