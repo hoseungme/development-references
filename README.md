@@ -4,7 +4,9 @@
 
 공부한 것들을 기록으로 남기고, 사람들에게 공유해보고 싶어서 만들게 되었습니다.
 
-글은 📚, 비디오는 🎥 로 표시하겠습니다.
+글은 📚 , 비디오는 🎥 로 표시하겠습니다.
+
+영어 자료는 🌎 로 표시하겠습니다.
 
 # 목차
 
@@ -77,7 +79,7 @@
 
 [⬆ 목차로 이동](#목차)
 
-- [📚 strong consistency vs eventual consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
+- [📚 🌎 strong consistency vs eventual consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
 
 ---
 
