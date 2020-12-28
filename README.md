@@ -100,6 +100,12 @@
 
 [⬆ 목차로 이동](#목차)
 
+### 데이터베이스
+
+- [📚 SQL vs NoSQL, 무엇을 언제 사용하는게 적합한가](https://dingrr.com/blog/post/%EA%B0%9C%EB%B0%9C-sql-vs-nosql-%EC%96%B8%EC%A0%9C-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C#:~:text=%ED%95%9C%EA%B5%AD%EC%96%B4%20%3A%20SQL%EC%9D%80%20Foreign%20Key,%EA%B7%B8%20%EC%9E%90%EC%B2%B4%EB%A1%9C%20%EA%B0%84%EC%A3%BC%ED%95%9C%EB%8B%A4.)
+
+[⬆ 목차로 이동](#목차)
+
 ---
 
 ## 개발지식
