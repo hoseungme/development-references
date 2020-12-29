@@ -100,6 +100,7 @@
 ### 네트워크
 
 - [📚 TCP/IP, OSI 7계층, TCP/IP 4계층에 대해](https://medium.com/@rlatla626/tcp-ip-%EC%A0%95%EB%A6%AC-204e8a986d98)
+- [📚 OSI 7계층에 대한 이해하기 쉬운 정리](http://blog.naver.com/PostView.nhn?blogId=pst8627&logNo=221670903384)
 
 [⬆ 목차로 이동](#목차)
 
