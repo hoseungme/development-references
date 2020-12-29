@@ -40,6 +40,8 @@
 
 ### Typescript
 
+- [📚 tsconfig 옵션 정리 (한국어)](https://geonlee.tistory.com/214)
+
 [⬆ 목차로 이동](#목차)
 
 ### Java
