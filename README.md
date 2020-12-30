@@ -100,7 +100,7 @@
 ### 네트워크
 
 - [📚 TCP/IP, OSI 7계층, TCP/IP 4계층에 대해](https://medium.com/@rlatla626/tcp-ip-%EC%A0%95%EB%A6%AC-204e8a986d98)
-- [📚 OSI 7계층에 대한 이해하기 쉬운 정리](http://blog.naver.com/PostView.nhn?blogId=pst8627&logNo=221670903384)
+- [📚 OSI 7계층에 대한 이해하기 쉬운 정리](https://www.ciokorea.com/news/36536#csidxa7b8fb7c6c7e34a85f2253bf8c1b283)
 - [📚 CIDR란 무엇인가](https://jins-dev.tistory.com/entry/CIDR-%EC%82%AC%EC%9D%B4%EB%8D%94-%EA%B8%B0%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EB%A6%AC)
 - [📚 AWS VPC의 CIDR과 관련 개념들](https://dev.classmethod.jp/articles/vpc-3/)
 
