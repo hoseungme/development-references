@@ -55,6 +55,8 @@
 
 ### Python
 
+- [📚 파이썬의 round 함수로 알아보는 프로그래밍에서의 반올림 연산](https://velog.io/@city7310/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B0%98%EC%98%AC%EB%A6%BC-%EC%9D%B4%EC%83%81%ED%95%B4%EC%9A%94)
+
 [⬆ 목차로 이동](#목차)
 
 ### HTML
