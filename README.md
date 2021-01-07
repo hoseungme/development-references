@@ -31,33 +31,23 @@
 
 ## 언어
 
-[⬆ 목차로 이동](#목차)
-
 ### Javascript
 
 - [📚 async/await의 병목 현상 해결하기](https://jaeheon.kr/161)
-
-[⬆ 목차로 이동](#목차)
 
 ### Typescript
 
 - [📚 tsconfig 옵션 정리 (한국어)](https://geonlee.tistory.com/214)
 - [📚 🌎 tsconfig 옵션 정리 (영어)](https://www.staging-typescript.org/tsconfig)
 
-[⬆ 목차로 이동](#목차)
-
 ### Java
 
 - [📚 Enum 활용기](https://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 - [📚 String Constant Pool에 대해](https://medium.com/@joongwon/string-%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0-57af94cbb6bc)
 
-[⬆ 목차로 이동](#목차)
-
 ### Python
 
 - [📚 파이썬의 round 함수로 알아보는 프로그래밍에서의 반올림 연산](https://velog.io/@city7310/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B0%98%EC%98%AC%EB%A6%BC-%EC%9D%B4%EC%83%81%ED%95%B4%EC%9A%94)
-
-[⬆ 목차로 이동](#목차)
 
 ### HTML
 
@@ -68,8 +58,6 @@
 ---
 
 ## 프레임워크
-
-[⬆ 목차로 이동](#목차)
 
 ### React
 
@@ -95,14 +83,10 @@
 
 ## 컴퓨터 공학
 
-[⬆ 목차로 이동](#목차)
-
 ### 운영체제
 
 - [📚 교착상태란 무엇인가](https://coding-factory.tistory.com/311)
 - [📚 교착상태 회피 기법 - 은행원 알고리즘](https://jhnyang.tistory.com/102)
-
-[⬆ 목차로 이동](#목차)
 
 ### 네트워크
 
@@ -111,8 +95,6 @@
 - [📚 CIDR란 무엇인가](https://jins-dev.tistory.com/entry/CIDR-%EC%82%AC%EC%9D%B4%EB%8D%94-%EA%B8%B0%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EB%A6%AC)
 - [📚 AWS VPC의 CIDR과 관련 개념들](https://dev.classmethod.jp/articles/vpc-3/)
 - [📚 슈퍼넷팅에 대해](https://m.blog.naver.com/PostView.nhn?blogId=gnsehfvlr&logNo=221022863603&proxyReferer=https:%2F%2Fwww.google.com%2F)
-
-[⬆ 목차로 이동](#목차)
 
 ### 데이터베이스
 
@@ -125,8 +107,6 @@
 
 ## 개발지식
 
-[⬆ 목차로 이동](#목차)
-
 ### 리팩토링
 
 - [🎥 리팩토링의 중요성 - 마틴 파울러](https://www.youtube.com/watch?v=mNPpfB8JSIU&ab_channel=%EB%8D%B0%EB%B8%8C%EC%9B%90%EC%98%81DVWY)
@@ -137,8 +117,8 @@
 
 ## 좋은 자료
 
-[⬆ 목차로 이동](#목차)
-
 - [🎥 지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지](https://www.youtube.com/watch?v=V9AGvwPmnZU&ab_channel=EO)
+
+[⬆ 목차로 이동](#목차)
 
 ---
