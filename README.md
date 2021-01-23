@@ -102,6 +102,7 @@
 - [📚 SQL vs NoSQL, 무엇을 언제 사용하는게 적합한가](https://dingrr.com/blog/post/%EA%B0%9C%EB%B0%9C-sql-vs-nosql-%EC%96%B8%EC%A0%9C-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C#:~:text=%ED%95%9C%EA%B5%AD%EC%96%B4%20%3A%20SQL%EC%9D%80%20Foreign%20Key,%EA%B7%B8%20%EC%9E%90%EC%B2%B4%EB%A1%9C%20%EA%B0%84%EC%A3%BC%ED%95%9C%EB%8B%A4.)
 - [📚 식별 관계와 비식별 관계](https://deveric.tistory.com/108)
 - [📚 개발자 커뮤니티 OKKY의 데이터베이스 ERD](https://www.erdcloud.com/d/PK2Ae7d4asTRqHpHx)
+- [📚 🌎 OFFSET 기반 페이지네이션의 문제점](https://www.eversql.com/faster-pagination-in-mysql-why-order-by-with-limit-and-offset-is-slow/)
 
 [⬆ 목차로 이동](#목차)
 
