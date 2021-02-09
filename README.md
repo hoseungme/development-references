@@ -133,6 +133,7 @@
 
 - [🎥 지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지](https://www.youtube.com/watch?v=V9AGvwPmnZU&ab_channel=EO)
 - [📚 주니어 개발자를 위한 논어(論語)](http://guruble.com/%ec%a3%bc%eb%8b%88%ec%96%b4-%ea%b0%9c%eb%b0%9c%ec%9e%90%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%85%bc%ec%96%b4%e8%ab%96%e8%aa%9e/)
+- [📚 개발자 이직 가이드](https://velog.io/@dongyi/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%97%B0%EB%B4%89%EC%98%AC%EB%A6%AC%EA%B8%B0)
 
 [⬆ 목차로 이동](#목차)
 
