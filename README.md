@@ -78,6 +78,7 @@
 ## 백엔드
 
 - [📚 백엔드 기초 시스템 아키텍처](http://labs.brandi.co.kr/2018/08/03/ohyj.html)
+- [📚 Serverless microservice architecture에서의 inter-communication caching](https://medium.com/vingle-tech-blog/serverless-microservice-architecture%EC%97%90%EC%84%9C%EC%9D%98-inter-communication-caching-80a43c979121)
 
 [⬆ 목차로 이동](#목차)
 
