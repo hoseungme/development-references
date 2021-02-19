@@ -135,6 +135,7 @@
 - [📚 주니어 개발자를 위한 논어(論語)](http://guruble.com/%ec%a3%bc%eb%8b%88%ec%96%b4-%ea%b0%9c%eb%b0%9c%ec%9e%90%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%85%bc%ec%96%b4%e8%ab%96%e8%aa%9e/)
 - [📚 개발자 이직 가이드](https://velog.io/@dongyi/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%97%B0%EB%B4%89%EC%98%AC%EB%A6%AC%EA%B8%B0)
 - [📚 지난 경력이 '물경력' 같다는 3년차 웹 개발자](https://prgms.tistory.com/18?category=892800)
+- [📚 Serverless와 기술도입, Back-end Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5)
 
 [⬆ 목차로 이동](#목차)
 
