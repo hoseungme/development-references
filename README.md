@@ -10,7 +10,7 @@
 
 # 목차
 
-- [언어](#언어)
+- [언어, 런타임](#언어,-런타임)
   - [Javascript](#Javascript)
   - [Typescript](#Typescript)
   - [Java](#Java)
@@ -32,7 +32,7 @@
 
 ---
 
-## 언어
+## 언어, 런타임
 
 ### Javascript
 
