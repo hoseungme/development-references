@@ -88,6 +88,7 @@
 - [📚 Serverless + S3 + DyanamoDB VPC에 배포하고 외부와 연결하기](https://changhoi.github.io/posts/serverless/serverless-vpc-deploy-demo/)
 - [📚 가게 배달지역 관리방식 개편 프로젝트](https://woowabros.github.io/experience/2021/02/27/s2-project.html)
 - [📚 REST API의 Overfetching과 Underfetching](https://devsoyoung.github.io/posts/underfetching-overfetching/)
+- [📚 AWS Lambda의 내부 동작](https://dayzen.medium.com/how-aws-lambda-work-internally-77f7fecd6d71)
 
 [⬆ 목차로 이동](#목차)
 
