@@ -28,6 +28,7 @@
   - [운영체제](#운영체제)
   - [네트워크](#네트워크)
   - [데이터베이스](#데이터베이스)
+- [방법론](#방법론)
 - [개발지식](#개발지식)
   - [리팩토링](#리팩토링)
 - [좋은 자료](#좋은-자료)
@@ -135,6 +136,12 @@
 - [📚 개발자 커뮤니티 OKKY의 데이터베이스 ERD](https://www.erdcloud.com/d/PK2Ae7d4asTRqHpHx)
 - [📚 🌎 OFFSET 기반 페이지네이션의 문제점](https://www.eversql.com/faster-pagination-in-mysql-why-order-by-with-limit-and-offset-is-slow/)
 - [📚 Cursor 기반 페이지네이션 구현하기](https://velog.io/@minsangk/%EC%BB%A4%EC%84%9C-%EA%B8%B0%EB%B0%98-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98-Cursor-based-Pagination-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+
+[⬆ 목차로 이동](#목차)
+
+---
+
+## 방법론
 
 [⬆ 목차로 이동](#목차)
 
