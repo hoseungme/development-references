@@ -38,6 +38,7 @@
 ### Javascript
 
 - [📚 async/await의 병목 현상 해결하기](https://jaeheon.kr/161)
+- [📚 JSON은 undefined를 지원하지 않습니다](https://jeesoo.work/json)
 
 ### Typescript
 
