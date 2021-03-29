@@ -82,6 +82,8 @@
 
 ## 프론트엔드
 
+- [🎥 프론트엔드를 위한 API 프로토콜, REST만이 답은 아니다. (with gRPC, GraphQL)](https://www.youtube.com/watch?v=6C9zyLioTOU&ab_channel=FEConfKorea)
+
 [⬆ 목차로 이동](#목차)
 
 ---
