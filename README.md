@@ -96,6 +96,7 @@
 - [📚 가게 배달지역 관리방식 개편 프로젝트](https://woowabros.github.io/experience/2021/02/27/s2-project.html)
 - [📚 REST API의 Overfetching과 Underfetching](https://devsoyoung.github.io/posts/underfetching-overfetching/)
 - [📚 AWS Lambda의 내부 동작](https://dayzen.medium.com/how-aws-lambda-work-internally-77f7fecd6d71)
+- [📚 토스의 백엔드는 어떻게 자동화되는가](https://medium.com/@ghilbut/%ED%86%A0%EC%8A%A4%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%90%EB%8F%99%ED%99%94%EB%90%98%EB%8A%94%EA%B0%80-6042e6bd110d)
 
 [⬆ 목차로 이동](#목차)
 
