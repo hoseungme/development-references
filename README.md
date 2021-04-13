@@ -116,6 +116,7 @@
 - [📚 BDD에 대해](https://blog.aliencube.org/ko/2014/04/02/differences-between-bdd-and-tdd/)
 - [📚 테스트의 의미와 종류](https://ui.toast.com/fe-guide/ko_TEST#%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%A2%85%EB%A5%98)
 - [📚 테스트 사용 설명서](https://medium.com/vingle-tech-blog/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%82%AC%EC%9A%A9-%EC%84%A4%EB%AA%85%EC%84%9C-85f9cecf9718)
+- [📚 A/B테스트에서 하면 안되는 7가지 실수](https://mindthelog.com/2017/08/ab-testing/)
 
 ---
 
