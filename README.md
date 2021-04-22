@@ -47,6 +47,7 @@
 
 - [📚 tsconfig 옵션 정리 (한국어)](https://geonlee.tistory.com/214)
 - [📚 🌎 tsconfig 옵션 정리 (영어)](https://www.staging-typescript.org/tsconfig)
+- [📚 클린코드 타입스크립트](https://github.com/738/clean-code-typescript)
 
 ### Node.js
 
