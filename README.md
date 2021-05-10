@@ -131,6 +131,7 @@
 ## HTTP
 
 - [📚 HTTP Strict-Transport-Security(HSTS)](https://developer.mozilla.org/ko/docs/Web/HTTP/Headers/Strict-Transport-Security)
+- [📚 Cross-Origin-Resource-Sharing](https://developer.mozilla.org/ko/docs/Web/HTTP/CORS)
 
 [⬆ 목차로 이동](#목차)
 
