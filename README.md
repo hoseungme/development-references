@@ -88,7 +88,6 @@
 
 - [🎥 프론트엔드를 위한 API 프로토콜, REST만이 답은 아니다. (with gRPC, GraphQL)](https://www.youtube.com/watch?v=6C9zyLioTOU&ab_channel=FEConfKorea)
 - [📚 웹 브라우저의 이미지 캐싱 이슈 해결하기](http://blog.hwahae.co.kr/all/tech/tech-tech/5412/)
-- [📚 사용자가 페이지에 다시 돌아왔을 때 이벤트 발생시키기](https://blog.outsider.ne.kr/654)
 
 [⬆ 목차로 이동](#목차)
 
