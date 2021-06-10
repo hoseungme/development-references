@@ -106,6 +106,7 @@
 - [📚 개발자들에게 도움이 될 만한 9가지 기본 AWS 서비스](https://velog.io/@openhub/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%97%90%EA%B2%8C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%A0-%EB%A7%8C%ED%95%9C-9%EA%B0%80%EC%A7%80-%EA%B8%B0%EB%B3%B8-%EC%95%84%EB%A7%88%EC%A1%B4-%EC%9B%B9%EC%84%9C%EB%B2%84-Amazon-Web-Service-AWS-%EC%84%9C%EB%B9%84%EC%8A%A4)
 - [📚 서버리스로 검색엔진 운영하기(발표자료)](https://github.com/awskrug/serverless-group/blob/master/res/20200109.pdf)
 - [📚 AWS Lambda@Edge에서 실시간 이미지 리사이즈 & WebP 형식으로 변환](https://medium.com/daangn/lambda-edge%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-on-the-fly-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95-f4e5052d49f3)
+- [📚 GIF 사용을 멈춰주세요!](https://medium.com/vingle-tech-blog/stop-using-gif-as-animation-3c6d223fd35a)
 
 [⬆ 목차로 이동](#목차)
 
