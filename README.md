@@ -107,6 +107,7 @@
 - [📚 서버리스로 검색엔진 운영하기(발표자료)](https://github.com/awskrug/serverless-group/blob/master/res/20200109.pdf)
 - [📚 AWS Lambda@Edge에서 실시간 이미지 리사이즈 & WebP 형식으로 변환](https://medium.com/daangn/lambda-edge%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-on-the-fly-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95-f4e5052d49f3)
 - [📚 GIF 사용을 멈춰주세요!](https://medium.com/vingle-tech-blog/stop-using-gif-as-animation-3c6d223fd35a)
+- [📚 🌎 Optimize your images](https://web.dev/fast/#optimize-your-images)
 
 [⬆ 목차로 이동](#목차)
 
