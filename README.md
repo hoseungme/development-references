@@ -89,6 +89,7 @@
 - [🎥 프론트엔드를 위한 API 프로토콜, REST만이 답은 아니다. (with gRPC, GraphQL)](https://www.youtube.com/watch?v=6C9zyLioTOU&ab_channel=FEConfKorea)
 - [📚 웹 브라우저의 이미지 캐싱 이슈 해결하기](http://blog.hwahae.co.kr/all/tech/tech-tech/5412/)
 - [📚 1px 보다 얇은 디자인](https://brunch.co.kr/@euid/6)
+- [📚 🌎 Efficiently load third-party JavaScript](https://web.dev/efficiently-load-third-party-javascript/)
 
 [⬆ 목차로 이동](#목차)
 
