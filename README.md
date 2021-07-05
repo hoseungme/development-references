@@ -90,6 +90,7 @@
 - [📚 웹 브라우저의 이미지 캐싱 이슈 해결하기](http://blog.hwahae.co.kr/all/tech/tech-tech/5412/)
 - [📚 1px 보다 얇은 디자인](https://brunch.co.kr/@euid/6)
 - [📚 🌎 Efficiently load third-party JavaScript](https://web.dev/efficiently-load-third-party-javascript/)
+- [📚 Critical Rendering Path](https://wonism.github.io/critical-rendering-path/)
 
 [⬆ 목차로 이동](#목차)
 
