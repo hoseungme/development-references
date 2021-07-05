@@ -91,6 +91,7 @@
 - [📚 1px 보다 얇은 디자인](https://brunch.co.kr/@euid/6)
 - [📚 🌎 Efficiently load third-party JavaScript](https://web.dev/efficiently-load-third-party-javascript/)
 - [📚 Critical Rendering Path](https://wonism.github.io/critical-rendering-path/)
+- [📚 브라우저는 웹페이지를 어떻게 그리나요?](https://post.naver.com/viewer/postView.nhn?volumeNo=8431285&memberNo=34176766)
 
 [⬆ 목차로 이동](#목차)
 
