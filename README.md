@@ -216,6 +216,7 @@
 - [📚 Serverless와 기술도입, Back-end Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5)
 - [📚 서비스에 장애가 발생했을 때 생각해보면 좋은 내용](https://velog.io/@laviande22/newbie-outage)
 - [📚 내 포트폴리오가 서류탈락인 이유](https://velog.io/@dongyi/%EB%82%B4-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%80-%EC%84%9C%EB%A5%98%ED%83%88%EB%9D%BD%EC%9D%B8-%EC%9D%B4%EC%9C%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%B4%EB%A0%87%EA%B2%8C-%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94)
+- [📚 누가 자바스크립트를 파괴할 수 있을까?](https://pawsong.medium.com/%EB%88%84%EA%B0%80-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%ED%8C%8C%EA%B4%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-bf22cab6d155)
 
 [⬆ 목차로 이동](#목차)
 
