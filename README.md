@@ -46,6 +46,7 @@
 - [📚 async/await의 병목 현상 해결하기](https://jaeheon.kr/161)
 - [📚 JSON은 undefined를 지원하지 않습니다](https://jeesoo.work/json)
 - [📚 Object prototypes](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/Object_prototypes)
+- [📚 자바스크립트와 V8 엔진의 메모리 관리 프로세스](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
 
 ### Typescript
 
