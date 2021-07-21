@@ -155,6 +155,7 @@
 - [📚 MySQL에서 'a' = 'a '가 true로 평가된다?](https://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
 - [📚 데이터베이스 정규화 1NF, 2NF, 3NF, BCNF](https://3months.tistory.com/193)
 - [📚 RDB부터 검색엔진까지 내게 꼭 맞는 DB 고르기](https://www.ciokorea.com/news/38041)
+- [📚 데이터베이스 이상 (Anomaly)](https://kosaf04pyh.tistory.com/m/294)
 
 ### MSA
 
