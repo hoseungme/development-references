@@ -28,6 +28,7 @@
   - [Docker](#docker)
   - [네트워크](#네트워크)
   - [데이터베이스](#데이터베이스)
+  - [MSA](#msa)
 - [보안](#보안)
   - [암호화](#암호화)
 - [테스트](#테스트)
@@ -154,6 +155,10 @@
 - [📚 MySQL에서 'a' = 'a '가 true로 평가된다?](https://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
 - [📚 데이터베이스 정규화 1NF, 2NF, 3NF, BCNF](https://3months.tistory.com/193)
 - [📚 RDB부터 검색엔진까지 내게 꼭 맞는 DB 고르기](https://www.ciokorea.com/news/38041)
+
+### MSA
+
+- [📚 쿠팡의 MSA 적용기](https://medium.com/coupang-tech/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-94678fe9eb61)
 
 [⬆ 목차로 이동](#목차)
 
