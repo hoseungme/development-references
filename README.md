@@ -225,6 +225,7 @@
 - [📚 서비스에 장애가 발생했을 때 생각해보면 좋은 내용](https://velog.io/@laviande22/newbie-outage)
 - [📚 내 포트폴리오가 서류탈락인 이유](https://velog.io/@dongyi/%EB%82%B4-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%80-%EC%84%9C%EB%A5%98%ED%83%88%EB%9D%BD%EC%9D%B8-%EC%9D%B4%EC%9C%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%B4%EB%A0%87%EA%B2%8C-%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94)
 - [📚 누가 자바스크립트를 파괴할 수 있을까?](https://pawsong.medium.com/%EB%88%84%EA%B0%80-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%ED%8C%8C%EA%B4%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-bf22cab6d155)
+- [📚 개발자에게는 어떤 능력이 필요한가?](https://euncho.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%8A%A5%EB%A0%A5%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-f2bb22fdc0ad)
 
 [⬆ 목차로 이동](#목차)
 
