@@ -38,6 +38,7 @@
 - [개발지식](#개발지식)
   - [코드 퀄리티](코드-퀄리티)
   - [리팩토링](#리팩토링)
+  - [정규 표현식](#정규-표현식)
 - [좋은 자료](#좋은-자료)
 
 ---
@@ -217,6 +218,10 @@
 ### 리팩토링
 
 - [🎥 리팩토링의 중요성 - 마틴 파울러](https://www.youtube.com/watch?v=mNPpfB8JSIU&ab_channel=%EB%8D%B0%EB%B8%8C%EC%9B%90%EC%98%81DVWY)
+
+## 정규 표현식
+
+- [HTML을 정규 표현식만으로 파싱할 수 있을까?](https://evan-moon.github.io/2021/05/07/why-regexp-called-regexp/)
 
 [⬆ 목차로 이동](#목차)
 
