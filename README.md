@@ -104,6 +104,7 @@
 - [📚 Headless UI Library란?](https://jbee.io/react/headless-concept/)
 - [📚 프론트엔드 개발자라면 반드시 알아두어야 할 32가지의 UI 요소](https://velog.io/@oneook/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EC%96%B4%EC%95%BC-%ED%95%A0-32%EA%B0%80%EC%A7%80%EC%9D%98-UI-%EC%9A%94%EC%86%8C-%EB%B2%88%EC%97%AD)
 - [📚 🌎 New <video> Policies for iOS](https://webkit.org/blog/6784/new-video-policies-for-ios/)
+- [📚 접근성이 떨어지는 웹사이트? 자바스크립트의 잘못은 아니랍니다.](https://velog.io/@hohooodo/JSConf-Korea-2020%EC%A0%91%EA%B7%BC%EC%84%B1%EC%9D%B4-%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%9E%98%EB%AA%BB%EC%9D%80-%EC%95%84%EB%8B%88%EB%9E%8D%EB%8B%88%EB%8B%A4)
 
 [⬆ 목차로 이동](#목차)
 
