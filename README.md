@@ -152,6 +152,7 @@
 - [📚 CIDR란 무엇인가](https://jins-dev.tistory.com/entry/CIDR-%EC%82%AC%EC%9D%B4%EB%8D%94-%EA%B8%B0%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EB%A6%AC)
 - [📚 AWS VPC의 CIDR과 관련 개념들](https://dev.classmethod.jp/articles/vpc-3/)
 - [📚 슈퍼넷팅에 대해](https://m.blog.naver.com/PostView.nhn?blogId=gnsehfvlr&logNo=221022863603&proxyReferer=https:%2F%2Fwww.google.com%2F)
+- [📚 Facebook을 다운 시킨 원인, BGP hijacking이 무엇인가?](https://dataportal.kr/14)
 
 ### 데이터베이스
 
