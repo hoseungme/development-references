@@ -248,6 +248,7 @@
 - [📚 개발자에게는 어떤 능력이 필요한가?](https://euncho.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%8A%A5%EB%A0%A5%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-f2bb22fdc0ad)
 - [📚 우아~한 장애대응](https://techblog.woowahan.com/4886/)
 - [📚 인프런 수습 회고](https://jojoldu.tistory.com/612)
+- [📚 프론트엔드 개발자는 왜 구하기 어렵나요?](https://taegon.kim/archives/4810?fbclid=IwAR0Y5iI0FeJy7aeqsZozFjamWnj7WLd1UX24-QJ3joRI1Fo0iQtHtHSPW0w)
 
 [⬆ 목차로 이동](#목차)
 
