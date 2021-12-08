@@ -17,6 +17,7 @@
   - [Java](#java)
   - [Python](#python)
   - [HTML](#html)
+  - [CSS](#css)
 - [프레임워크](#프레임워크)
   - [React](#react)
 - [프론트엔드](#프론트엔드)
@@ -76,6 +77,10 @@
 ### HTML
 
 - [📚 Semantic 태그와 SEO](https://velog.io/@seongkyun/Semantic-Tag%EB%8A%94-SEO%EC%97%90-%EC%98%81%ED%96%A5%EC%9D%84-%EB%AF%B8%EC%B9%A0%EA%B9%8C)
+
+### CSS
+
+- [📚 CSS 속성별 렌더링 시작점](https://docs.google.com/spreadsheets/u/0/d/1Hvi0nu2wG3oQ51XRHtMv-A_ZlidnwUYwgQsPQUg1R2s/pub?single=true&gid=0&output=html)
 
 [⬆ 목차로 이동](#목차)
 
