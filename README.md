@@ -176,6 +176,7 @@
 - [📚 RDB부터 검색엔진까지 내게 꼭 맞는 DB 고르기](https://www.ciokorea.com/news/38041)
 - [📚 데이터베이스 이상 (Anomaly)](https://kosaf04pyh.tistory.com/m/294)
 - [📚 동시성 문제 해결방법](https://chrisjune-13837.medium.com/db-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95-f5e52e2e3)
+= [📚 여러컬럼으로 Join 맺어야할 경우의 인덱스](https://jojoldu.tistory.com/628)
 
 ### MSA
 
