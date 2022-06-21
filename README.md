@@ -95,7 +95,12 @@
 - [📚 Javascript 클로저로 useState hook 만들기](https://medium.com/humanscape-tech/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%81%B4%EB%A1%9C%EC%A0%80%EB%A1%9C-hooks%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-3ba74e11fda7)
 - [📚 SOLID 원칙에 기초한 React 코드 작성법](https://velog.io/@huurray/SOLID-%EC%9B%90%EC%B9%99%EC%97%90-%EA%B8%B0%EC%B4%88%ED%95%9C-React-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EB%B2%95)
 
+### Next.js
+
+- [📚 Next.JS hydration 스타일 이슈 파악하기](https://fourwingsy.medium.com/next-js-hydration-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%9D%B4%EC%8A%88-%ED%94%BC%ED%95%B4%EA%B0%80%EA%B8%B0-988ce0d939e7)
+
 [⬆ 목차로 이동](#목차)
+
 ---
 
 ## 프론트엔드
