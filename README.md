@@ -122,6 +122,7 @@
 - [📚 웹 브라우저의 동작원리를 알아보자](https://velog.io/@thyoondev/%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 - [📚 카카오웹툰은 하드웨어 가속과 IntersectionObserver를 어떻게 사용했을까?](https://fe-developers.kakaoent.com/2021/211202-gpu-intersection-observer/)
 - [📚 SSR and Server Only Modules](https://arunoda.me/blog/ssr-and-server-only-modules)
+- [📚 웹 3D 모델 최적화 기법 소개](https://d2.naver.com/helloworld/6152907)
 
 [⬆ 목차로 이동](#목차)
 
