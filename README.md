@@ -123,6 +123,7 @@
 - [📚 카카오웹툰은 하드웨어 가속과 IntersectionObserver를 어떻게 사용했을까?](https://fe-developers.kakaoent.com/2021/211202-gpu-intersection-observer/)
 - [📚 SSR and Server Only Modules](https://arunoda.me/blog/ssr-and-server-only-modules)
 - [📚 웹 3D 모델 최적화 기법 소개](https://d2.naver.com/helloworld/6152907)
+- [📚 Easing 함수 모음](https://easings.net/ko)
 
 [⬆ 목차로 이동](#목차)
 
