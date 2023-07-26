@@ -124,6 +124,7 @@
 - [📚 SSR and Server Only Modules](https://arunoda.me/blog/ssr-and-server-only-modules)
 - [📚 웹 3D 모델 최적화 기법 소개](https://d2.naver.com/helloworld/6152907)
 - [📚 Easing 함수 모음](https://easings.net/ko)
+- [📚 렌더링 성능 개선(2) — 합성 애니메이션 사용](https://so-so.dev/web/browser-rendering-performance/)
 
 [⬆ 목차로 이동](#목차)
 
