@@ -125,6 +125,7 @@
 - [📚 웹 3D 모델 최적화 기법 소개](https://d2.naver.com/helloworld/6152907)
 - [📚 Easing 함수 모음](https://easings.net/ko)
 - [📚 렌더링 성능 개선(2) — 합성 애니메이션 사용](https://so-so.dev/web/browser-rendering-performance/)
+- [📚 🌎 A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 
 [⬆ 목차로 이동](#목차)
 
@@ -189,7 +190,7 @@
 - [📚 RDB부터 검색엔진까지 내게 꼭 맞는 DB 고르기](https://www.ciokorea.com/news/38041)
 - [📚 데이터베이스 이상 (Anomaly)](https://kosaf04pyh.tistory.com/m/294)
 - [📚 동시성 문제 해결방법](https://chrisjune-13837.medium.com/db-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95-f5e52e2e3)
-= [📚 여러컬럼으로 Join 맺어야할 경우의 인덱스](https://jojoldu.tistory.com/628)
+  = [📚 여러컬럼으로 Join 맺어야할 경우의 인덱스](https://jojoldu.tistory.com/628)
 
 ### MSA
 
@@ -233,6 +234,7 @@
 ## 방법론
 
 ### 객체지향
+
 - [📚 리스코프 치환 원칙](http://wonwoo.ml/index.php/post/1780)
 - [📚 인터페이스 분리 원칙](http://wonwoo.ml/index.php/post/1675)
 
@@ -243,6 +245,7 @@
 ## 개발지식
 
 ### 코드 퀄리티
+
 - [📚 좋은 코드란 무엇일까?](https://jbee.io/etc/what-is-good-code/)
 
 ### 리팩토링
