@@ -147,6 +147,7 @@
 - [📚 Serverless와 기술도입, Back-end Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5)
 - [📚 🌎 S3 Uploads — Proxies vs Presigned URLs vs Presigned POSTs](https://zaccharles.medium.com/s3-uploads-proxies-vs-presigned-urls-vs-presigned-posts-9661e2b37932)
 - [📚 🌎 Software Architecture Patterns](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2)
+- [📚 🌎 Why does GraphQL need cost analysis?](https://mmatsa.com/blog/why-cost-analysis)
 
 ### REST API
 
