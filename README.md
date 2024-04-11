@@ -209,11 +209,11 @@
 
 ### Swift
 
-- [📚 The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language)
+- [📚 🌎 The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language)
 
 ### Xcode
 
-- [📚 Xcode Help](https://help.apple.com/xcode/mac)
+- [📚 🌎 Xcode Help](https://help.apple.com/xcode/mac)
 
 [⬆ 목차로 이동](#목차)
 
