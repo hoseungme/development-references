@@ -129,6 +129,7 @@
 - [📚 Easing 함수 모음](https://easings.net/ko)
 - [📚 렌더링 성능 개선(2) — 합성 애니메이션 사용](https://so-so.dev/web/browser-rendering-performance/)
 - [📚 🌎 A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+- [📚 자료구조를 활용한 복잡한 프론트엔드 컴포넌트 제작하기](https://toss.tech/article/frontend-tree-structure)
 
 [⬆ 목차로 이동](#목차)
 
