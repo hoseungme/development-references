@@ -31,6 +31,7 @@
   - [네트워크](#네트워크)
   - [데이터베이스](#데이터베이스)
   - [MSA](#msa)
+- [AI](#ai)
 - [Apple](#apple)
   - [Swift](#swift)
   - [Xcode](#xcode)
@@ -201,6 +202,14 @@
 
 - [📚 쿠팡의 MSA 적용기](https://medium.com/coupang-tech/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-94678fe9eb61)
 - [📚 MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
+
+[⬆ 목차로 이동](#목차)
+
+---
+
+## AI
+
+- [📚 🌎 LLM function calls don't scale; code orchestration is simpler, more effective.](https://jngiam.bearblog.dev/mcp-large-data/)
 
 [⬆ 목차로 이동](#목차)
 
