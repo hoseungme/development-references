@@ -65,6 +65,7 @@
 - [📚 🌎 tsconfig 옵션 정리 (영어)](https://www.staging-typescript.org/tsconfig)
 - [📚 클린코드 타입스크립트](https://github.com/738/clean-code-typescript)
 - [📚 🌎 empty object를 타입으로 정의하는법](https://github.com/typescript-eslint/typescript-eslint/issues/2063#issuecomment-675156492)
+- [📚 🌎 Hyper-Typing](https://pscanf.com/s/341/)
 
 ### Node.js
 
@@ -210,6 +211,7 @@
 ## AI
 
 - [📚 🌎 LLM function calls don't scale; code orchestration is simpler, more effective.](https://jngiam.bearblog.dev/mcp-large-data/)
+- [📚 🌎 AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
 
 [⬆ 목차로 이동](#목차)
 
